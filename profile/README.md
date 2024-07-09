@@ -1,4 +1,4 @@
-## Artistry
+# Artistry
 
 <!--
 
